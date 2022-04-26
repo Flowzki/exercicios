@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\bin\Debug\netcoreapp3.1\exercicio_classe_funcionario.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\bin\Debug\netcoreapp3.1\exercicio_classe_funcionario.deps.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\bin\Debug\netcoreapp3.1\exercicio_classe_funcionario.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\bin\Debug\netcoreapp3.1\exercicio_classe_funcionario.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\bin\Debug\netcoreapp3.1\exercicio_classe_funcionario.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\bin\Debug\netcoreapp3.1\exercicio_classe_funcionario.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_funcionario\exercicio_classe_funcionario\obj\Debug\netcoreapp3.1\exercicio_classe_funcionario.genruntimeconfig.cache
