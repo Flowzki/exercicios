@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\bin\Debug\netcoreapp3.1\exercicio_classes_01.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\bin\Debug\netcoreapp3.1\exercicio_classes_01.deps.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\bin\Debug\netcoreapp3.1\exercicio_classes_01.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\bin\Debug\netcoreapp3.1\exercicio_classes_01.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\bin\Debug\netcoreapp3.1\exercicio_classes_01.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\bin\Debug\netcoreapp3.1\exercicio_classes_01.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_01\exercicio_classes_01\obj\Debug\netcoreapp3.1\exercicio_classes_01.genruntimeconfig.cache
