@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaHerancaExercicio", "SomaHerancaExercicio\SomaHerancaExercicio.csproj", "{A8F1BF66-E082-41C2-A70F-629F971269AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F1BF66-E082-41C2-A70F-629F971269AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F1BF66-E082-41C2-A70F-629F971269AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F1BF66-E082-41C2-A70F-629F971269AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F1BF66-E082-41C2-A70F-629F971269AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D49B99-3987-4ECE-ADCE-566F23766853}
+	EndGlobalSection
+EndGlobal

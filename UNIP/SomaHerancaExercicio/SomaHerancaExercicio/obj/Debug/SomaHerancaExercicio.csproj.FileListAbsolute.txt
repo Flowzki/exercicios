@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.Form1.resources
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\bin\Debug\SomaHerancaExercicio.exe.config
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\bin\Debug\SomaHerancaExercicio.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\bin\Debug\SomaHerancaExercicio.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\SomaHerancaExercicio\SomaHerancaExercicio\obj\Debug\SomaHerancaExercicio.pdb
