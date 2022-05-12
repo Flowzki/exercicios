@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_classe_perimetro", "exercicio_classe_perimetro\exercicio_classe_perimetro.csproj", "{EA3BA0BF-B83B-4B59-BF08-0B4D86C2934B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3BA0BF-B83B-4B59-BF08-0B4D86C2934B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3BA0BF-B83B-4B59-BF08-0B4D86C2934B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3BA0BF-B83B-4B59-BF08-0B4D86C2934B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3BA0BF-B83B-4B59-BF08-0B4D86C2934B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EBE45C4-F077-429E-9645-8C3485D5F7EC}
+	EndGlobalSection
+EndGlobal

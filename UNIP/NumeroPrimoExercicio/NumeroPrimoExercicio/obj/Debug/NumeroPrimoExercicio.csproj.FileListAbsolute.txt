@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\bin\Debug\NumeroPrimoExercicio.exe.config
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\bin\Debug\NumeroPrimoExercicio.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\bin\Debug\NumeroPrimoExercicio.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.Form1.resources
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\NumeroPrimoExercicio\NumeroPrimoExercicio\obj\Debug\NumeroPrimoExercicio.pdb

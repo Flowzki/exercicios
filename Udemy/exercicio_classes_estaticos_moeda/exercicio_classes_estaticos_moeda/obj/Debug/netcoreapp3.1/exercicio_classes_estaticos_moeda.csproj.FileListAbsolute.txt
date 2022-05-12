@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\bin\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\bin\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.deps.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\bin\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\bin\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\bin\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\bin\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classes_estaticos_moeda\exercicio_classes_estaticos_moeda\obj\Debug\netcoreapp3.1\exercicio_classes_estaticos_moeda.genruntimeconfig.cache

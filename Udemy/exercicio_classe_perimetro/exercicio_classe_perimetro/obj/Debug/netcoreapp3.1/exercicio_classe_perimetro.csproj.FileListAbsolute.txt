@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\bin\Debug\netcoreapp3.1\exercicio_classe_perimetro.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\bin\Debug\netcoreapp3.1\exercicio_classe_perimetro.deps.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\bin\Debug\netcoreapp3.1\exercicio_classe_perimetro.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\bin\Debug\netcoreapp3.1\exercicio_classe_perimetro.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\bin\Debug\netcoreapp3.1\exercicio_classe_perimetro.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\bin\Debug\netcoreapp3.1\exercicio_classe_perimetro.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_classe_perimetro\exercicio_classe_perimetro\obj\Debug\netcoreapp3.1\exercicio_classe_perimetro.genruntimeconfig.cache

@@ -75,6 +75,7 @@ namespace SomaHerancaExercicio
             this.lblResultado.Size = new System.Drawing.Size(55, 13);
             this.lblResultado.TabIndex = 3;
             this.lblResultado.Text = "Resultado";
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // txbNumero1
             // 

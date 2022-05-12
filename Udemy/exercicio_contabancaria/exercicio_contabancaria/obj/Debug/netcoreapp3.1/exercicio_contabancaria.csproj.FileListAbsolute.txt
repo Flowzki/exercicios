@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\bin\Debug\netcoreapp3.1\exercicio_contabancaria.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\bin\Debug\netcoreapp3.1\exercicio_contabancaria.deps.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\bin\Debug\netcoreapp3.1\exercicio_contabancaria.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\bin\Debug\netcoreapp3.1\exercicio_contabancaria.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\bin\Debug\netcoreapp3.1\exercicio_contabancaria.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\bin\Debug\netcoreapp3.1\exercicio_contabancaria.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_contabancaria\exercicio_contabancaria\obj\Debug\netcoreapp3.1\exercicio_contabancaria.csproj.AssemblyReference.cache
