@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\bin\Debug\netcoreapp3.1\exercicio_vetor_aluguel.exe
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\bin\Debug\netcoreapp3.1\exercicio_vetor_aluguel.deps.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\bin\Debug\netcoreapp3.1\exercicio_vetor_aluguel.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\bin\Debug\netcoreapp3.1\exercicio_vetor_aluguel.runtimeconfig.dev.json
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\bin\Debug\netcoreapp3.1\exercicio_vetor_aluguel.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\bin\Debug\netcoreapp3.1\exercicio_vetor_aluguel.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.dll
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.pdb
+C:\Users\diego\OneDrive\Documentos\Programação\C#\Projetos\exercicio_vetor_aluguel\exercicio_vetor_aluguel\obj\Debug\netcoreapp3.1\exercicio_vetor_aluguel.genruntimeconfig.cache
